@@ -22,3 +22,6 @@ The News Clippings Web Application is a user-friendly platform that allows users
 ![image](https://github.com/mohit-kota/PR_Clipping/assets/96908137/64697341-d412-477a-8465-cae8f75742b6)
 ![image](https://github.com/mohit-kota/PR_Clipping/assets/96908137/6ee17c1a-c784-4e64-9e94-0bace51b23b7)
 ![image](https://github.com/mohit-kota/PR_Clipping/assets/96908137/4f0e0009-9795-4ef7-9a38-5e8fb91af831)
+![image](https://github.com/mohit-kota/PR_Clipping/assets/96908137/73bf0a24-640f-43d4-8cb8-0a131e5cb93d)
+![image](https://github.com/mohit-kota/PR_Clipping/assets/96908137/6c71727d-fbc4-4d34-bd8c-7ae099abea61)
+![image](https://github.com/mohit-kota/PR_Clipping/assets/96908137/f1fdc597-1302-4886-ae0c-6f31fd87830c)
